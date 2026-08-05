@@ -4,6 +4,8 @@
 
 ### Software Developer & Analyst
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Developer+%26+Analyst;Building+reliable%2C+well-structured+systems;Automating+workflows%2C+one+repo+at+a+time;Always+learning%2C+always+shipping." alt="Typing SVG" />
+
 </div>
 
 ## About me
@@ -42,14 +44,6 @@ I'm a software developer and analyst focused on building reliable, well-structur
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 <a href="https://about.gitlab.com"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
 <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
-
-</div>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Santiagarmo&theme=radical&hide_border=true" alt="Santiago's GitHub streak" height="165" />
 
 </div>
 
