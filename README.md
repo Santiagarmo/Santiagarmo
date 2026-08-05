@@ -4,8 +4,6 @@
 
 ### Software Developer & Analyst
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Developer+%26+Analyst;Building+reliable%2C+well-structured+systems;Automating+workflows%2C+one+repo+at+a+time;Always+learning%2C+always+shipping." alt="Typing SVG" />
-
 </div>
 
 ## About me
@@ -55,14 +53,3 @@ I'm a software developer and analyst focused on building reliable, well-structur
 
 </div>
 
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santiagarmo/Santiagarmo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santiagarmo/Santiagarmo/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Santiagarmo/Santiagarmo/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
