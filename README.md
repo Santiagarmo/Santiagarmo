@@ -32,7 +32,6 @@ I'm a software developer and analyst focused on building reliable, well-structur
 <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
 <a href="https://pinia.vuejs.org"><img src="https://skillicons.dev/icons?i=pinia" alt="Pinia" /></a>
 <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-<a href="https://angular.dev"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
 <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
 
 **Backend & Data**
