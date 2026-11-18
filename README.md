@@ -36,11 +36,14 @@ B2B automatic bank reconciliation for WhatsApp e-commerce: matches payments decl
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
 <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+<a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
 
 **Frontend**
 
 <a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" /></a>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
 <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
 <a href="https://pinia.vuejs.org"><img src="https://skillicons.dev/icons?i=pinia" alt="Pinia" /></a>
 <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
