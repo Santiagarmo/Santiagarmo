@@ -10,7 +10,7 @@
 
 ## About me
 
-I'm a software developer and analyst focused on building reliable, well-structured systems — from backend services to frontend interfaces. I enjoy working across the stack, automating workflows, and keeping infrastructure clean and reproducible. Always learning, always shipping.
+Full-stack developer and QA engineer in a government in-house software factory building **Zajuna**, a Moodle 4.3 learning platform serving **~485,000 users**. Experienced in PHP, Go, Vue 3/TypeScript, Python, and Node.js, pairing end-to-end delivery with automated testing, web accessibility, data engineering, applied AI, and UML/functional documentation.
 
 ## Tech Stack & Tools
 
